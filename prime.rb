@@ -7,5 +7,3 @@ def prime?(num)
   end
   true
 end
-
-puts prime?(4)
